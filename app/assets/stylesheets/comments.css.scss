@@ -1,8 +1,11 @@
 // Place all the styles related to the Comments controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-.comment{
 
+
+
+
+.comment{
   .page_foot{
       margin-right: 5px;
     align:right;
@@ -12,11 +15,9 @@
    }
     .del{
      a{
-           font_size:8pt;
+         font_size:9pt;
       }
-
-     }
-     
+     }     
    }
 }
   #alert {
